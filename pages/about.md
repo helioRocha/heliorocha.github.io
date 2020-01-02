@@ -15,6 +15,6 @@ weight: 3
 </div>
 
 <div class="row">
-{% include about/timeline.html title="Academic" source=site.data.timeline %}
-{% include about/timeline.html title="Other Achievements" source=site.data.timeline-cert %}
+{% include about/timeline.html title="Academic" source=site.data.academic-timeline %}
+{% include about/timeline.html title="Other Achievements" source=site.data.other-timeline %}
 </div>
