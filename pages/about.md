@@ -8,6 +8,7 @@ weight: 3
 # **About Me**
 
 [//]: # ( Hi I am **{{ site.author.name }}** :wave:,<br>)
+[//]: # ({% include about/timeline.html title="Other Achievements" source=site.data.other-timeline %})
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
@@ -16,5 +17,4 @@ weight: 3
 
 <div class="row">
 {% include about/timeline.html title="Academic" source=site.data.academic-timeline %}
-[//]: # ({% include about/timeline.html title="Other Achievements" source=site.data.other-timeline %})
 </div>
