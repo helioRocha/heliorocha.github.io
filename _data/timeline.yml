@@ -1,17 +1,44 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Postdoctoral researcher, Federal University of Ceará, Fortaleza, CE, Brazil
+  from: 2014/Jan
+  to: 2015/Dec
+  description: Project "Obtaining silica xerogel from cashew nutshell to produce
+               substrates for use in photovoltaic system."
+  
+- title: Postdoctoral researcher, Federal University of Ceará, Fortaleza, CE, Brazil
+  from: 2011/Jul
+  to: 2013/Nov
+  description: Project "Aerodynamic Study on Wind Turbine Blades."
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: D.Sc. in Teleinformatics Engineering, Federal University of Ceará, Fortaleza, CE, Brazil
+  from: 2006/Apr
+  to: 2010/Nov
+  description: "Ressoadores e guias dielétricos cilíndricos operando em micro-ondas e óptica:
+                antenas dielétricas e acopladores refletores de Bragg a Fibra", 
+                advised by Antônio Sérgio Bezerra Sombra.
+
+- title: M.Sc. in Materials Science and Engineering, Federal University of Ceará, Fortaleza, CE, Brazil
+  from: 2004/Mar
+  to: 2006/Jan
+  description:  "Estudo das propriedades estruturais e de transporte dos compósitos 
+                magneto-dielétricos [(Fe5/8Cr3/8)2O3]x:[(Fe1/4Cu3/8Ti3/8)2O3]100-x", 
+                advised by Antônio Sérgio Bezerra Sombra.
+
+- title: Researcher, LOCEM, Fortaleza, CE, Brazil
+  from: 2004/Aug
+  to: 2010/Nov
+  description: Microwave Dielectric Ceramics, Dielectric Cylindrical Antennas and Numerical 
+               Simulation of Fiber Optic Devices.
+
+- title: B.Sc. in Chemical Engineering, Federal University of Ceará, Fortaleza, CE, Brazil
+  from: 1996/Fev
+  to: 2003/Dec
+  #description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               #sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               #Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               #nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               #reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ 
+- title: Intern, Moinho Santa Lúcia Ltda, Aquiraz, CE, Brazil
+  from: 2003/Sep
+  to: 2003/Nov
+  Quality Control Lab.: Analytical determinations of wheat profile and derivatives.
