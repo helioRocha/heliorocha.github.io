@@ -15,5 +15,5 @@ weight: 3
 </div>
 
 <div class="row">
-{% include about/timeline.html %}
+{% include about/timeline.html title="Achievements"%}
 </div>
