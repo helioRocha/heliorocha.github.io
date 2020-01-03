@@ -1,22 +1,32 @@
-- title: <i class="fas fa-award"></i> openSAP
+- title: <i class="fas fa-certificate"></i> openSAP
   from: Jul 25
   to: 2018
   description: Object-Oriented Programming in Java
 
-- title: <i class="fas fa-award"></i> edX  
+- title: <i class="fas fa-award"></i> edX (Microsoft)
+  from: Sep 04 
+  to: 2015
+  description: DAT204x, Introduction to R Programming
+
+- title: <i class="fas fa-award"></i> edX (HarvardX)
+  from: May 26
+  to: 2015
+  description: PH525.1x, Statistics and R for the Life Sciences
+
+- title: <i class="fas fa-award"></i> edX (UTAustinX)  
   from: Feb 10
   to: 2015
-  description: UT.7.01x: Foundations of Data Analysis
-  
-- title: <i class="fas fa-award"></i> edX
-  from: 0
-  to: 0
-  description:
+  description: UT.7.01x, Foundations of Data Analysis
 
 - title: <i class="fas fa-award"></i> Coursera
   from: Dec 08
   to: 2014
   description: Getting and Cleaning Data
+
+- title: <i class="fas fa-award"></i> edX (KIx)
+  from: Oct 23 
+  to: 2014
+  description: KIexploRx, Explore Statistics with R
   
 - title: <i class="fas fa-award"></i> Coursera
   from: Oct 10
