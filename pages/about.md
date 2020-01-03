@@ -19,5 +19,5 @@ weight: 3
 </div>
 
 <div class="row">
-{% include about/timeline.html title="Acomplishments" source=site.data.other-timeline %}
+{% include about/timeline2.html title="Acomplishments" source=site.data.other-timeline %}
 </div>
