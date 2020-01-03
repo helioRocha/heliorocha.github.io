@@ -1,19 +1,19 @@
-- title: <p><a href="https://www.w3schools.com/html/"><i class="fas fa-certificate"></i> openSAP</a></p>
+- title: <p><a href="https://open.sap.com/verify/xubac-fagem-nevan-zebup-vovil"><i class="fas fa-certificate"></i> openSAP</a></p>
   from: Jul 25
   to: 2018
   description: Object-Oriented Programming in Java
 
-- title: <i class="fas fa-award"></i> edX (Microsoft)
+- title: <p><a href="https://verify.edx.org/cert/294ad3d37bc54c12a488ae834cf75dc9"><i class="fas fa-certificate"></i> edX (Microsoft)</a></p>
   from: Sep 04 
   to: 2015
   description: DAT204x, Introduction to R Programming
 
-- title: <i class="fas fa-award"></i> edX (HarvardX)
+- title: <p><a href="https://verify.edx.org/cert/27021f9425c645ab98796dd377ff6d53"><i class="fas fa-certificate"></i> edX (HarvardX)</a></p>
   from: May 26
   to: 2015
   description: PH525.1x, Statistics and R for the Life Sciences
 
-- title: <i class="fas fa-award"></i> edX (UTAustinX)  
+- title: <p><a href="https://verify.edx.org/cert/96cfa150b88e42cca63ab1681e060646"><i class="fas fa-certificate"></i> edX (UTAustinX)</a></p>
   from: Feb 10
   to: 2015
   description: UT.7.01x, Foundations of Data Analysis
@@ -23,7 +23,7 @@
   to: 2014
   description: Getting and Cleaning Data
 
-- title: <i class="fas fa-award"></i> edX (KIx)
+- title: <p><a href="https://verify.edx.org/cert/b7126497b73e487d914c84da14a93060"><i class="fas fa-certificate"></i> edX (KIx)</a></p>
   from: Oct 23 
   to: 2014
   description: KIexploRx, Explore Statistics with R
