@@ -17,3 +17,7 @@ weight: 3
 <div class="row">
 {% include about/timeline.html title="Achievements"%}
 </div>
+
+<div class="row">
+{% include about/timeline.html title="Acomplishments" source=site.data.other-timeline %}
+</div>
