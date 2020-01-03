@@ -1,3 +1,34 @@
-- title: <i class="fas fa-award"></i> title
+- title: <i class="fas fa-award"></i> openSAP
+  from: Jul 25
+  to: 2018
+  description: Object-Oriented Programming in Java
+
+- title: <i class="fas fa-award"></i> edX  
+  from: Feb 10
+  to: 2015
+  description: UT.7.01x: Foundations of Data Analysis
+  
+- title: <i class="fas fa-award"></i> edX
   from: 0
-  description: edX
+  to: 0
+  description:
+
+- title: <i class="fas fa-award"></i> Coursera
+  from: Dec 08
+  to: 2014
+  description: Getting and Cleaning Data
+  
+- title: <i class="fas fa-award"></i> Coursera
+  from: Oct 10
+  to: 2014
+  description: The Data Scientist’s Toolbox
+
+- title: <i class="fas fa-award"></i> Coursera
+  from: Jan 18
+  to: 2014
+  description: Machine Learning
+
+- title: <i class="fas fa-award"></i> Coursera
+  from: Dec 20 
+  to: 2013
+  description: Computing for Data Analysis
