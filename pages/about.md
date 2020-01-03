@@ -5,7 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+[//]: # **About Me**
 
 [//]: # ( Hi I am **{{ site.author.name }}** :wave:,<br>)
 
@@ -16,5 +16,5 @@ weight: 3
 
 <div class="row">
 {% include about/timeline.html title="Achievements"%}
-{% include about/timeline2.html title="Accomplishments" source=site.data.other-timeline %}
+{% include about/timeline2.html title="Continuous learning" source=site.data.other-timeline %}
 </div>
