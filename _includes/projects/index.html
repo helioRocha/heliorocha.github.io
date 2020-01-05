@@ -3,6 +3,7 @@
 <script src="{{ '/assets/js/remote-projects.js' | relative_url }}"></script>
 
 <div class="card-columns m-3 mt-5">
+-->
 
   <!-- Remote Projects -->
   <!--
@@ -31,10 +32,11 @@
     {% include projects/project-card.html %}
 
     <script>get_tools("{{ project_id }}")</script>
-
+  
   {% endfor %}
+  -->
 
-  <!-- Local Projects -->
+  <!-- Local Projects 
   {% for project in site.projects %}
 
     {% assign project_type  = "local" %}
@@ -55,3 +57,4 @@
   {% endfor %}
 
 </div>
+-->
