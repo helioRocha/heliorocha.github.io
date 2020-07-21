@@ -2,7 +2,7 @@
 title               : [h/R]
 description         : >-                               # >- means to ignore newlines until "url:"   
                       <strong>Helio Rocha</strong><br>
-                      Computer Scientist under construction
+                      Computer Scientist
 #                      "I turn coffee :coffee: into code,
 #                      use tabs over spaces
 #                      and never broke production."
@@ -22,7 +22,7 @@ author:
 # facebook          : your_username
   github            : heliorocha
   gitlab            : heliorocha
-# instagram         : your_username
+  instagram         : heliorocha_
   linkedin          : rochabarbosa
 # medium            : your_username
 # soundcloud        : your_username
